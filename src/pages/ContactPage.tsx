@@ -34,13 +34,13 @@ const ContactPage: React.FC = () => {
               <div className="mt-8 space-y-6">
                 <div className="flex items-center">
                   <Mail className="h-6 w-6 text-red-500" />
-                  <a href="mailto:support@shopwave.com" className="ml-4 text-gray-600 hover:text-red-500">
-                    support@shopwave.com
+                  <a href="mailto:faham.m24@iiits.in" className="ml-4 text-gray-600 hover:text-red-500">
+                    faham.m24@iiits.in
                   </a>
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-6 w-6 text-red-500" />
-                  <span className="ml-4 text-gray-600">+1 (555) 123-4567</span>
+                  <span className="ml-4 text-gray-600">+69 (6969) 123-4567</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-6 w-6 text-red-500" />
@@ -49,12 +49,12 @@ const ContactPage: React.FC = () => {
                 <div className="flex items-center">
                   <Github className="h-6 w-6 text-red-500" />
                   <a 
-                    href="https://github.com/shopwave" 
+                    href="https://github.com/Faham-from-nowhere" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="ml-4 text-gray-600 hover:text-red-500"
                   >
-                    ShopWave on GitHub
+                    Mohammed Faham on GitHub
                   </a>
                 </div>
               </div>
